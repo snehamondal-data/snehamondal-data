@@ -1,5 +1,7 @@
 # Hi, I'm Sneha 👋
 
+**Portfolio:** [snehamondal-data.github.io](https://snehamondal-data.github.io)
+
 **Data engineer.** For three years I was the only data engineer at a six-brand DTC commerce group, which meant I built the platform rather than operated one someone else chose: the ingestion, the warehouse, the models, the quality checks and the documentation.
 
 I like the unglamorous half of this job. The rerun that doesn't double-count, the alert that fires before anyone sees a wrong number, the bill that stops growing.
