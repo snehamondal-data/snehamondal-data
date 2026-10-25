@@ -2,7 +2,7 @@
 
 **Portfolio:** [snehamondal-data.github.io](https://snehamondal-data.github.io)
 
-**Data engineer.** For 3+ years I was the only data engineer at Veiled Collection, a modest-fashion DTC brand, and then at YNK Incubator, the 3PL behind it, where I built the data platform for six DTC brands: the ingestion, the warehouse, the models, the quality checks and the warehouse tools operations staff worked in.
+**Data engineer, working toward AI engineering.** 3+ years in, as the only data engineer on a production platform: I built the ingestion, the warehouse, the models, the quality checks and the tools operations teams worked in. I've worked with a lot of tools, with many more to come: building and growing every day.
 
 I love solving complex problems, and I like the unglamorous half of this job: the rerun that doesn't double-count, the alert that fires before anyone sees a wrong number, the bill that stops growing.
 
