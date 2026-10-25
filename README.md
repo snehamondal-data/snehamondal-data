@@ -21,7 +21,7 @@ I like the unglamorous half of this job. The rerun that doesn't double-count, th
 ### A few things I've built
 
 - Traced an **$8,000/month** cloud bill that had nothing erroring, just quietly costing money, down to a runaway Eventarc to Cloud Run feedback loop. Fixed it architecturally. **$300/month**, and it stayed there.
-- Cut operational data errors **95%** across **43K+ SKUs** by making failures loud instead of silent.
+- Cut operational data errors **95%** across **44K+ SKUs** by making failures loud instead of silent.
 - Built the demand forecast the buying team committed **six months** of purchasing against, then checked it against actual sell-through and corrected where it drifted.
 
 ### What I'm building now
